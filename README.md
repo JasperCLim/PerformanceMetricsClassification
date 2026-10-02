@@ -1,8 +1,8 @@
-Open the notebook and do the workshop as shown there.
-Search for the words "To the student". Each hit constitutes a talking point. You will earn credit for the workshop by answering the questions and solving the challenges in each section with this title.
-Add a section to the notebook that answers all the questions and solves the challenges.
-Copy this notebook to your own remote repository. 
-Add a README file to your repository to introduce the workshop and a summary of your insights (based on the talking points)
-Follow all the coding standards and best practices covered in class.
-Produce one PDF file with the title of the workshop, your names, and a link to your remote GitHub repository.
-Drop the PDF in the box before the due date/time.
+Jasper Lim 9117038
+
+To train a classifier a dataset with labels is needed. It is much easier to reduce the problem size, trying to approach a binary decision. It is possible to subdivide a dataset in a way to use one portion as a sample and to evaluate on the rest; these are called splits or folds. This helps prevent against overfitting.
+Precision and Recall are inversely dependent. Precision concerns the accuracy of when a positive is declared, or true positives from false positives. Recall concerns the accuracy of recognizing true positive from false negatives.
+Threshold is related to accuracy in classifying data.
+
+All workshop answers are located at the bottom of PerformanceMetricsClassification.ipynb.
+Some questions ask for code in cells directly below the question; the answers of this are duplicated and also at the bottom as well.
